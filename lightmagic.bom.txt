@@ -1,0 +1,37 @@
+Part     Value      Device          Package      Description                                                                   MF                      MPN                OC_FARNELL OC_NEWARK
+AMP7X    AD8541RJ   AD8541RJ        SOT23-5      General-Purpose CMOS Rail-to-Rail Amplifiers                                                          AD8541ARTZ-R2      1464963    28X4209  
+AUDIOIN  STEREOJACK STEREOJACK      STX3100      MIC/HEADPHONE JACK                                                            SWITCHCRAFT             35RAPC4BHN2                   96F9607  
+BATT                PINHD-1X2       1X02         PIN HEADER                                                                    TYCO ELECTRONICS        640456-2                      90F4250  
+C1       10uF       C-USC0805       C0805        CAPACITOR, American symbol                                                                            GRT21BR61E106KE13L            01AC8983 
+C2       .33uF      C-USC0805       C0805        CAPACITOR, American symbol                                                                            MC0805B334K500CT              06X6218  
+C3       1uF        C-USC0805       C0805        CAPACITOR, American symbol                                                                            C0805X104K3RAC3316            01AC1593 
+C4       .1uF       C-USC0805       C0805        CAPACITOR, American symbol                                                                            0805YC104KAT2A                05AC9650 
+C5       .1uF       C-USC0805       C0805        CAPACITOR, American symbol                                                                            0805YC104KAT2A                05AC9650 
+C6       10uF       C-USC0805       C0805        CAPACITOR, American symbol                                                                            GRT21BR61E106KE13L            01AC8983 
+C7       10uF       C-USC0805       C0805        CAPACITOR, American symbol                                                                            GRT21BR61E106KE13L            01AC8983 
+COMP5X   LMV358M    LMV358M         SO08         Dual General Purpose, Low Voltage, Rail-to-Rail Output Operational Amplifiers                         LMV358M                       97K3153  
+IC2      7805DT     7805DT          TO252        Positive VOLTAGE REGULATOR                                                    ON SEMICONDUCTOR        MC7805CDTG                    71J5739  
+INVERT   ICL7660CSA ICL7660CSA      SO08         VOLTAGE CONVERTER                                                             NATIONAL SEMICONDUCTOR  LMC7660IM/NOPB     9724710    41K2738  
+ISOLATE  4N25SM     4N25SM          DIL6-SMD     General Purpose 6-Pin Phototransistor Optocouplers                                                    4N25-300E          1021152    13M5766  
+LEDAUDIO RED        LEDCHIP-LED0805 CHIP-LED0805 LED                                                                                                   QTLP630C7TR                   01AC7976 
+LEDPHOTO RED        LEDCHIP-LED0805 CHIP-LED0805 LED                                                                                                   QTLP630C7TR                   01AC7976 
+LEDPWR   GREEN      LEDCHIP-LED0805 CHIP-LED0805 LED                                                                                                   QTLP630C7TR                   01AC7976 
+PHOTOD              PINHD-1X2       1X02         PIN HEADER                                                                    TYCO ELECTRONICS        640456-2                      90F4250  
+R1       330        R-US_R0805      R0805        RESISTOR, American symbol                                                                             ERJ-6ENF3300V                 90W3413  
+R2       1k         R-US_R0805      R0805        RESISTOR, American symbol                                                                             ERJ-6ENF12R0V                 64R5373  
+R3       8.2k       R-US_R0805      R0805        RESISTOR, American symbol                                                     Multicomp Passives      MC01W080518K2                 58K4911  
+R4       10k        R-US_R0805      R0805        RESISTOR, American symbol                                                     VISHAY/DALE             CRCW080510K0FKTA              05F1511  
+R5       10k        R-US_R0805      R0805        RESISTOR, American symbol                                                     VISHAY/DALE             CRCW080510K0FKTA              05F1511  
+R6       47k        R-US_R0805      R0805        RESISTOR, American symbol                                                     VISHAY/DALE             CRCW080547K0FKEA              42K4553  
+R7       68k        R-US_R0805      R0805        RESISTOR, American symbol                                                     VISHAY/DALE             CRCW080568K0FKEA              53K0428  
+R8       13k        R-US_R0805      R0805        RESISTOR, American symbol                                                     VISHAY/DALE             CRCW080513K0FKEA              42K4278  
+R9       1.8k       R-US_R0805      R0805        RESISTOR, American symbol                                                     VISHAY/DALE             CRCW08051K80FKEA              42K4228  
+R10      39         R-US_R0805      R0805        RESISTOR, American symbol                                                                             ERJ-6GEYJ390V                 53W4957  
+R11      330        R-US_R0805      R0805        RESISTOR, American symbol                                                                             ERJ-6ENF3300V                 90W3413  
+R12      680        R-US_R0805      R0805        RESISTOR, American symbol                                                                             ERA-6AEB681V                  08N2184  
+R13      330        R-US_R0805      R0805        RESISTOR, American symbol                                                                             ERJ-6ENF3300V                 90W3413  
+R14      180        R-US_R0805      R0805        RESISTOR, American symbol                                                     VISHAY/DALE             CRCW0805180RJNEA              01H7775  
+RECT     MB6S       MB6S            SOIC-4       Bridge Rectifier                                                              FAIRCHILD SEMICONDUCTOR MB6S                          58K1814  
+SENS     100k       TRIMPOTTC33X    TC33X        SMT trimmer potentiometer part number TC33X                                                           CRCW0805100KJNEA              04M8142  
+SIGOUT   STEREOJACK STEREOJACK      STX3100      MIC/HEADPHONE JACK                                                            SWITCHCRAFT             35RAPC4BHN2                   96F9607  
+USBPWR              USBMINIB        USB-MINIB    USB Connectors                                                                                        1734035-1                     16M2760  
