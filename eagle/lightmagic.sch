@@ -7413,34 +7413,34 @@ http://www.national.com/dt/lmv_qual.pdf</description>
 </classes>
 <parts>
 <part name="INVERT" library="maxim" deviceset="ICL7660CSA" device="">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MF" value="NATIONAL SEMICONDUCTOR"/>
+<attribute name="MPN" value="LMC7660IM/NOPB"/>
+<attribute name="OC_NEWARK" value="41K2738"/>
 </part>
 <part name="C7" library="adafruit" deviceset="C-US" device="C0805" value="10uF">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="GRT21BR61E106KE13L"/>
+<attribute name="OC_NEWARK" value="01AC8983"/>
 </part>
 <part name="R3" library="adafruit" deviceset="R-US_" device="R0805" value="8.2k">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MF" value="Multicomp Passives"/>
+<attribute name="MPN" value="MC01W080518K2"/>
+<attribute name="OC_NEWARK" value="58K4911"/>
 </part>
 <part name="R5" library="adafruit" deviceset="R-US_" device="R0805" value="10k">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MF" value="VISHAY/DALE"/>
+<attribute name="MPN" value="CRCW080510K0FKTA"/>
+<attribute name="OC_NEWARK" value="05F1511"/>
 </part>
 <part name="R7" library="adafruit" deviceset="R-US_" device="R0805" value="68k">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MF" value="VISHAY/DALE"/>
+<attribute name="MPN" value="CRCW080568K0FKEA"/>
+<attribute name="OC_NEWARK" value="53K0428"/>
 </part>
 <part name="R10" library="adafruit" deviceset="R-US_" device="R0805" value="39">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="ERJ-6GEYJ390V"/>
+<attribute name="OC_NEWARK" value="53W4957"/>
 </part>
 <part name="RECT" library="rectifier" deviceset="MB*S" device="" technology="6">
 <attribute name="MF" value="FAIRCHILD SEMICONDUCTOR"/>
@@ -7448,44 +7448,44 @@ http://www.national.com/dt/lmv_qual.pdf</description>
 <attribute name="OC_NEWARK" value="58K1814"/>
 </part>
 <part name="AUDIOIN" library="adafruit" deviceset="STEREOJACK" device="">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MF" value="SWITCHCRAFT"/>
+<attribute name="MPN" value="35RAPC4BHN2"/>
+<attribute name="OC_NEWARK" value="96F9607"/>
 </part>
 <part name="C6" library="adafruit" deviceset="C-US" device="C0805" value="10uF">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="GRT21BR61E106KE13L"/>
+<attribute name="OC_NEWARK" value="01AC8983"/>
 </part>
 <part name="C1" library="adafruit" deviceset="C-US" device="C0805" value="10uF">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="GRT21BR61E106KE13L"/>
+<attribute name="OC_NEWARK" value="01AC8983"/>
 </part>
 <part name="ISOLATE" library="optocoupler" deviceset="4N*?M" device="S" technology="25">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="4N25-300E"/>
+<attribute name="OC_NEWARK" value="13M5766"/>
 </part>
 <part name="C2" library="adafruit" deviceset="C-US" device="C0805" value=".33uF">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="MC0805B334K500CT"/>
+<attribute name="OC_NEWARK" value="06X6218"/>
 </part>
 <part name="C5" library="adafruit" deviceset="C-US" device="C0805" value=".1uF">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="0805YC104KAT2A"/>
+<attribute name="OC_NEWARK" value="05AC9650"/>
 </part>
 <part name="C3" library="adafruit" deviceset="C-US" device="C0805" value="1uF">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="C0805X104K3RAC3316"/>
+<attribute name="OC_NEWARK" value="01AC1593"/>
 </part>
 <part name="C4" library="adafruit" deviceset="C-US" device="C0805" value=".1uF">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="0805YC104KAT2A"/>
+<attribute name="OC_NEWARK" value="05AC9650"/>
 </part>
 <part name="AMP7X" library="analog-devices" deviceset="AD8541" device="RJ">
 <attribute name="MF" value=""/>
@@ -7501,54 +7501,54 @@ http://www.national.com/dt/lmv_qual.pdf</description>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="USBPWR" library="adafruit" deviceset="USB" device="MINIB">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="1734035-1"/>
+<attribute name="OC_NEWARK" value="16M2760"/>
 </part>
 <part name="BATT" library="pinhead" deviceset="PINHD-1X2" device="">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MF" value="TYCO ELECTRONICS"/>
+<attribute name="MPN" value="640456-2"/>
+<attribute name="OC_NEWARK" value="90F4250"/>
 </part>
 <part name="AGND1" library="supply1" deviceset="AGND" device=""/>
 <part name="P+1" library="supply1" deviceset="V+" device=""/>
 <part name="PHOTOD" library="pinhead" deviceset="PINHD-1X2" device="">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MF" value="TYCO ELECTRONICS"/>
+<attribute name="MPN" value="640456-2"/>
+<attribute name="OC_NEWARK" value="90F4250"/>
 </part>
 <part name="SENS" library="adafruit" deviceset="TRIMPOT" device="TC33X" value="100k">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="CRCW0805100KJNEA"/>
+<attribute name="OC_NEWARK" value="04M8142"/>
 </part>
 <part name="P+2" library="supply1" deviceset="V+" device=""/>
 <part name="AGND2" library="supply1" deviceset="AGND" device=""/>
-<part name="LEDPWR" library="adafruit" deviceset="LED" device="CHIP-LED0805">
+<part name="LEDPWR" library="adafruit" deviceset="LED" device="CHIP-LED0805" value="GREEN">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="QTLP630C7TR"/>
+<attribute name="OC_NEWARK" value="01AC7976"/>
 </part>
 <part name="R1" library="adafruit" deviceset="R-US_" device="R0805" value="330">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="ERJ-6ENF3300V"/>
+<attribute name="OC_NEWARK" value="90W3413"/>
 </part>
 <part name="R2" library="adafruit" deviceset="R-US_" device="R0805" value="1k">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="ERJ-6ENF12R0V"/>
+<attribute name="OC_NEWARK" value="64R5373"/>
 </part>
 <part name="P+3" library="supply1" deviceset="V+" device=""/>
 <part name="AGND3" library="supply1" deviceset="AGND" device=""/>
 <part name="R4" library="adafruit" deviceset="R-US_" device="R0805" value="10k">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MF" value="VISHAY/DALE"/>
+<attribute name="MPN" value="CRCW080510K0FKTA"/>
+<attribute name="OC_NEWARK" value="05F1511"/>
 </part>
 <part name="R6" library="adafruit" deviceset="R-US_" device="R0805" value="47k">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MF" value="VISHAY/DALE"/>
+<attribute name="MPN" value="CRCW080547K0FKEA"/>
+<attribute name="OC_NEWARK" value="42K4553"/>
 </part>
 <part name="AGND4" library="supply1" deviceset="AGND" device=""/>
 <part name="IC2" library="linear" deviceset="78*" device="DT" technology="05">
@@ -7557,59 +7557,59 @@ http://www.national.com/dt/lmv_qual.pdf</description>
 <attribute name="OC_NEWARK" value="71J5739"/>
 </part>
 <part name="R8" library="adafruit" deviceset="R-US_" device="R0805" value="13k">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MF" value="VISHAY/DALE"/>
+<attribute name="MPN" value="CRCW080513K0FKEA"/>
+<attribute name="OC_NEWARK" value="42K4278"/>
 </part>
 <part name="R9" library="adafruit" deviceset="R-US_" device="R0805" value="1.8k">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MF" value="VISHAY/DALE"/>
+<attribute name="MPN" value="CRCW08051K80FKEA"/>
+<attribute name="OC_NEWARK" value="42K4228"/>
 </part>
 <part name="P+4" library="supply1" deviceset="V+" device=""/>
 <part name="AGND5" library="supply1" deviceset="AGND" device=""/>
-<part name="LEDPHOTO" library="adafruit" deviceset="LED" device="CHIP-LED0805">
+<part name="LEDPHOTO" library="adafruit" deviceset="LED" device="CHIP-LED0805" value="RED">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="QTLP630C7TR"/>
+<attribute name="OC_NEWARK" value="01AC7976"/>
 </part>
 <part name="R11" library="adafruit" deviceset="R-US_" device="R0805" value="330">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="ERJ-6ENF3300V"/>
+<attribute name="OC_NEWARK" value="90W3413"/>
 </part>
 <part name="SIGOUT" library="adafruit" deviceset="STEREOJACK" device="">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MF" value="SWITCHCRAFT"/>
+<attribute name="MPN" value="35RAPC4BHN2"/>
+<attribute name="OC_NEWARK" value="96F9607"/>
 </part>
 <part name="P+5" library="supply1" deviceset="V+" device=""/>
 <part name="R14" library="adafruit" deviceset="R-US_" device="R0805" value="180">
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MF" value="VISHAY/DALE"/>
+<attribute name="MPN" value="CRCW0805180RJNEA"/>
+<attribute name="OC_NEWARK" value="01H7775"/>
 </part>
 <part name="AGND6" library="supply1" deviceset="AGND" device=""/>
-<part name="LEDAUDIO" library="adafruit" deviceset="LED" device="CHIP-LED0805">
+<part name="LEDAUDIO" library="adafruit" deviceset="LED" device="CHIP-LED0805" value="RED">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="QTLP630C7TR"/>
+<attribute name="OC_NEWARK" value="01AC7976"/>
 </part>
 <part name="R12" library="adafruit" deviceset="R-US_" device="R0805" value="680">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="ERA-6AEB681V"/>
+<attribute name="OC_NEWARK" value="08N2184"/>
 </part>
 <part name="AGND7" library="supply1" deviceset="AGND" device=""/>
 <part name="R13" library="adafruit" deviceset="R-US_" device="R0805" value="330">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
+<attribute name="MPN" value="ERJ-6ENF3300V"/>
+<attribute name="OC_NEWARK" value="90W3413"/>
 </part>
 <part name="COMP5X" library="linear" deviceset="LMV358?*" device="M">
 <attribute name="MF" value=""/>
-<attribute name="MPN" value="LMV358Q3MM/NOPB"/>
-<attribute name="OC_NEWARK" value="63W8378"/>
+<attribute name="MPN" value="LMV358M"/>
+<attribute name="OC_NEWARK" value="97K3153"/>
 </part>
 </parts>
 <sheets>
