@@ -10,8 +10,8 @@ The output is an additional 3.5mm (1/8") audio jack with the L channel (tip) car
 
 The design allows for this board to be "trigger glue" between a psychophysical presentation (audio or on-screen stimuli) and electrophysiological recording systems when sub-millisecond synchronization is required, such as for neurostimulation. Note that output voltages are still in the 2V range; this should be further reduced as close as possible to the recording system via passive voltage dividers down to safe voltages and currents (hopefully <50μA for all failure conditions) for in-vivo recordings.
 
-![Schematic](schematic.png)
-![Board](board.png)
+![Schematic](images/schematic.png)
+![Board](images/board.png)
 
 ## Files
 
